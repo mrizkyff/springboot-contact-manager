@@ -1,0 +1,3 @@
+CREATE DATABASE contact_manager;
+
+SHOW DATABASES;
